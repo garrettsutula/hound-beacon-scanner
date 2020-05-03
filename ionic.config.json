@@ -1,0 +1,7 @@
+{
+  "name": "hound-beacon-scanner",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
